@@ -1,4 +1,5 @@
 Hello
 This line is added by Dev2
 Now tell me - this line is now updated by dev1
+This is from Dev1
 This is from Dev2
